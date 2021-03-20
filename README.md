@@ -9,7 +9,7 @@
 
 ### 💡 &nbsp;Founder and creator of
 
-<a href="https://play.google.com/store/apps/details?id=br.com.onze">
+<a target="_blank" href="https://play.google.com/store/apps/details?id=br.com.onze">
   <img alt="onze" src="https://img.shields.io/badge/Google%20Play-Onze-orange" />
 <a/>
 
