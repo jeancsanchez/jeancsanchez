@@ -1,4 +1,4 @@
- ### 👋  Hello there! I'm  <a href="https://www.linkedin.com/in/jeancarlospatricio/"><img src="https://img.shields.io/badge/-Jean-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> from :brazil:. Founder and creator of <a href="https://play.google.com/store/apps/details?id=br.com.onze"><img alt="onze" src="https://img.shields.io/badge/Google%20Play-Onze-orange" /><a/>
+ ### 👋  Hello there! I'm  <a href="https://www.linkedin.com/in/jeancarlospatricio/"><img src="https://img.shields.io/badge/-Jean-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> from :brazil:
 
 <p align="center">
 <a href="https://github.com/jeancsanchez">
